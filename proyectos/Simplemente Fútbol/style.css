@@ -1,0 +1,30 @@
+.navegacion ul, li, a{
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+    font-family: 'Baumans', cursive;
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+}
+
+.navegacion{
+    background-color: forestgreen;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+h5  {color: gray;}
+
+* {font-family: 'Cairo', sans-serif;}
+
+.grilla{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.medianil{
+    padding: 20px 15px 20px 15px;
+}
